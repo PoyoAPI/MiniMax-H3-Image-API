@@ -1,0 +1,11 @@
+{
+  "model": "minimax-h3-image",
+  "input": {
+    "prompt": "Place a small version of the red fox from <Picture 2>, with its brass compass, sitting between the ice-cream cones in <Picture 1>, at the same scale as the cones. Keep the white background, the pastel colors, and the lighting of <Picture 1> unchanged.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-mini/examples/image-to-video-first-frame.jpg",
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "resolution": "2K"
+  }
+}

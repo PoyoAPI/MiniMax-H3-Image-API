@@ -1,0 +1,9 @@
+{
+  "model": "minimax-h3-image",
+  "input": {
+    "prompt": "Minimal presentation background, soft gradient from deep navy to teal, subtle geometric lines in the lower right, large empty area on the left for text",
+    "size": "1920x1080",
+    "enable_prompt_expansion": false,
+    "output_format": "jpeg"
+  }
+}

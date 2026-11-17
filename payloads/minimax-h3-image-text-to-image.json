@@ -1,0 +1,8 @@
+{
+  "model": "minimax-h3-image",
+  "input": {
+    "prompt": "A vintage travel poster for Kyoto, headline text 'KYOTO' in large bold serif letters and subtitle 'City of a Thousand Gates' below, red torii gates receding up a mossy hill, autumn maple leaves, 1960s screen-print style",
+    "size": "16:9",
+    "resolution": "2K"
+  }
+}

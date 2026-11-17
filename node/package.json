@@ -1,0 +1,8 @@
+{
+  "name": "poyo-minimax-h3-image-api-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

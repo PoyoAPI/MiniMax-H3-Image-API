@@ -1,0 +1,8 @@
+{
+  "model": "minimax-h3-image",
+  "input": {
+    "prompt": "Macro photograph of a dew-covered spider web at sunrise, every droplet catching warm golden light, soft green meadow bokeh behind, ultra-detailed",
+    "size": "1:1",
+    "resolution": "4K"
+  }
+}
